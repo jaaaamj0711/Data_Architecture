@@ -17,5 +17,5 @@ class adam:
         return ret
   
 a = adam() 
-print('sum_two() result = ', a.sum_two(1, 3)) 
+pdrint('sum_two() result = ', a.sum_two(1, 3)) 
 print('get_biggest() result = ', a.get_biggest([5,3,4,-10,0]))
